@@ -1,4 +1,4 @@
-# 🐦 Sentiment Analysis using Twitter Data
+# 🐦 Sentiment Analysis of Twitter Data using NLP Models
 
 ## 📌 Project Overview
 
