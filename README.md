@@ -70,6 +70,7 @@ Key characteristics of TF-IDF in this project:
 The dataset is divided into:
 - 80% training data
 - 20% testing data
+  
 This split ensures that the model learns patterns from unseen data and allows for proper evaluation of generalization performance.
 
 ### 5. Model Selection and Training
@@ -77,6 +78,7 @@ A Logistic Regression classifier is selected for this project due to its:
 - High efficiency on high-dimensional sparse text data
 - Fast training time
 - Strong baseline performance in sentiment analysis tasks
+  
 The model is trained using the TF-IDF feature vectors generated from the training dataset. During training, the model learns the relationship between word importance and sentiment labels.
 
 ### 6. Model Evaluation
@@ -85,6 +87,7 @@ After training, the model is evaluated on the test dataset using:
 - Precision
 - Recall
 - F1-score
+  
 These metrics provide a comprehensive understanding of the model’s classification performance, especially for imbalanced sentiment data.
 
 ### 7. System Deployment (Local)
@@ -115,7 +118,9 @@ http://127.0.0.1:5000/
 
 ## 📄 Documentation & Research Paper
 Project Documentation is included in this folder
+
 IEEE Research Paper related to this project is included in this folder 
+
 These files provide:
 - Detailed system explanation
 - Literature survey
