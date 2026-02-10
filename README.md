@@ -35,7 +35,7 @@ Due to its large size, the dataset is not included directly in this repository
 📥 Dataset Download Link (Google Drive):
 👉 (https://drive.google.com/file/d/1Wbjh1Oe1Fe5eF-CgO_92ixFdonOSYxTf/view?usp=sharing)
 
-After downloading, place the CSV file in this directory before running the notebook
+After downloading, place the CSV file in this directory before running the notebook - ".ipynb_checkpoints/Untitled_checkpoint"
 
 ## ⚙️ Step-by-Step Overflow
 
