@@ -33,31 +33,6 @@ to enable real-time sentiment prediction through an interactive user interface.
 | Environment Manager | Anaconda |
 
 
-## 📂 Project Structure
-Mini-Project/
-│
-├── Code/
-│   ├── app.py
-│   ├── TfidfVectorizer.pickle
-│   ├── xgbmodel.pickle
-│   ├── templates/
-│   │   ├── home.html
-│   │   ├── login.html
-│   │   ├── signup.html
-│   │   ├── index.html
-│   │   └── result.html
-│
-├── Training/
-│   └── sentiment_analysis.ipynb
-│
-├── Documentation/
-│   └── Project_Report.pdf
-│
-├── Research_Paper/
-│   └── IEEE_Paper.pdf
-│
-└── README.md
-
 ## 📊 Dataset Information
 
 The dataset contains Twitter tweets and corresponding sentiment labels
@@ -67,7 +42,7 @@ Due to its large size, the dataset is not included directly in this repository
 📥 Dataset Download Link (Google Drive):
 👉 [Add your Google Drive link here]
 
-After downloading, place the CSV file in the appropriate training directory before running the notebook.
+After downloading, place the CSV file in this directory before running the notebook.
 
 ## ⚙️ Step-by-Step Overflow
 
