@@ -43,7 +43,7 @@ After downloading, place the CSV file in this directory before running the noteb
 
 The methodology of this project follows a systematic end-to-end machine learning pipeline, starting from data preprocessing and model training to deployment as a web application using Flask.
 
-## 1. Dataset Acquisition
+### 1. Dataset Acquisition
 The dataset consists of Twitter tweets labeled for sentiment analysis, where each tweet is associated with a sentiment class:
 0 → Negative (Hate Speech)
 1 → Positive (Non-Hate Speech)
@@ -107,13 +107,11 @@ Logistic Regression provided:
 
  ## 🌐 How to Run the Project Locally
 
-1) Clone the repository
-2) git clone <repository-link>
-3) Open Anaconda Prompt and navigate to the project folder
-<cd D:\Mini-Project\MPNLP04\Code>
-4) Install required dependencies
-<conda install numpy scipy scikit-learn>
-<pip install flask nltk>
+1) Open Anaconda Prompt and navigate to the project folder
+`cd D:\Mini-Project\MPNLP04\Code`
+2) Install required dependencies
+`conda install numpy scipy scikit-learn`
+`pip install flask nltk`
 5) Run the Flask application
 <python app.py>
 6) Open browser and visit
