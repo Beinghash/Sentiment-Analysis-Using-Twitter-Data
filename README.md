@@ -114,8 +114,8 @@ Logistic Regression provided:
 http://127.0.0.1:5000/
 
 ## 📄 Documentation & Research Paper
-* Project Documentation is included in this folder
-* IEEE Research Paper related to this project is included in this folder
+Project Documentation is included in this folder
+IEEE Research Paper related to this project is included in this folder 
 These files provide:
 - Detailed system explanation
 - Literature survey
