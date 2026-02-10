@@ -31,9 +31,11 @@ to enable real-time sentiment prediction through an interactive user interface.
 ## 📊 Dataset Information
 The dataset contains Twitter tweets and corresponding sentiment labels
 Due to its large size, the dataset is not included directly in this repository
+
 📥 Dataset Download Link (Google Drive):
-👉 [Add your Google Drive link here]
-After downloading, place the CSV file in this directory before running the notebook.
+👉 (https://drive.google.com/file/d/1Wbjh1Oe1Fe5eF-CgO_92ixFdonOSYxTf/view?usp=sharing)
+
+After downloading, place the CSV file in this directory before running the notebook ".ipynb_checkpoints/Untitled_checkpoint.ipynb".
 
 ## ⚙️ Step-by-Step Overflow
 
@@ -41,8 +43,9 @@ The methodology of this project follows a systematic end-to-end machine learning
 
 ### 1. Dataset Acquisition
 The dataset consists of Twitter tweets labeled for sentiment analysis, where each tweet is associated with a sentiment class:
-0 → Negative (Hate Speech)
-1 → Positive (Non-Hate Speech)
+- 0 → Negative (Hate Speech)
+- 1 → Positive (Non-Hate Speech)
+  
 (Due to the large size of the dataset, it is hosted externally and provided through a Google Drive link. The dataset is loaded into the system using the Pandas library for further processing.)
 
 ### 2. Text Preprocessing 
@@ -56,6 +59,7 @@ The preprocessing steps include:
 - Tokenizing text into words
 - Removing English stopwords using NLTK
 - Rejoining cleaned words into a single string
+  
 This preprocessing ensures that the input text during training and prediction follows the same format, which is critical for reliable sentiment classification.
 
 ### 3. Feature Extraction using TF-IDF 
