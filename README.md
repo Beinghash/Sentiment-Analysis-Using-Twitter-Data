@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis using Machine Learning & Flask
+# 🐦 Sentiment Analysis using Twitter Data
 
 ## 📌 Project Overview
 
