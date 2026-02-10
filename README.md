@@ -29,14 +29,10 @@ to enable real-time sentiment prediction through an interactive user interface.
 
 
 ## 📊 Dataset Information
-
 The dataset contains Twitter tweets and corresponding sentiment labels
-
 Due to its large size, the dataset is not included directly in this repository
-
 📥 Dataset Download Link (Google Drive):
 👉 [Add your Google Drive link here]
-
 After downloading, place the CSV file in this directory before running the notebook.
 
 ## ⚙️ Step-by-Step Overflow
@@ -110,17 +106,16 @@ Logistic Regression provided:
 1) Open Anaconda Prompt and navigate to the project folder
 `cd D:\Mini-Project\MPNLP04\Code`
 2) Install required dependencies
-`conda install numpy scipy scikit-learn`
+`conda install numpy scipy scikit-learn`,
 `pip install flask nltk`
-5) Run the Flask application
-<python app.py>
-6) Open browser and visit
+3) Run the Flask application
+`python app.py`
+4) Open browser and visit
 http://127.0.0.1:5000/
 
 ## 📄 Documentation & Research Paper
-
-📘 Project Documentation is included in this folder
-📑 IEEE Research Paper related to this project is included in this folder
+* Project Documentation is included in this folder
+* IEEE Research Paper related to this project is included in this folder
 These files provide:
 - Detailed system explanation
 - Literature survey
@@ -135,4 +130,10 @@ These files provide:
 
 ## 🎓 Academic Note
 
-This project is developed as part of a college mini project for academic learning purposes and demonstrates the practical application of Machine Learning, NLP, and Web Deployment
+This project is developed as part of a college mini project for academic learning purposes and demonstrates the practical application of Machine Learning, NLP, and Web Deployment.
+
+## 🙋‍♂️ Author
+
+Made by Hashir khan   
+Feel free to ⭐ the repo if you found it helpful!
+
